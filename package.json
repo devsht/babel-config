@@ -1,6 +1,6 @@
 {
   "name": "@devsht/babel-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Reusable Babel config",
   "main": "index.js",
   "repository": "git@github.com:devsht/babel-config.git",
